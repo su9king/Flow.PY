@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PythonGraphicDebugging.iml" filepath="$PROJECT_DIR$/.idea/PythonGraphicDebugging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Flow.PY.iml" filepath="$PROJECT_DIR$/.idea/Flow.PY.iml" />
     </modules>
   </component>
 </project>
